@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		17155D732D17184500BF1A81 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 17155D712D17183D00BF1A81 /* .gitignore */; };
 		17CA348F441026EC364524DC /* Pods_SwiftTest1Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A184695F1A7F794F15664764 /* Pods_SwiftTest1Tests.framework */; };
 		A9FE3AEFB0290917FDC0B423 /* Pods_SwiftTest1_SwiftTest1UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CE3E8F51DFB1828B9F4AEB10 /* Pods_SwiftTest1_SwiftTest1UITests.framework */; };
 		F71FDA61ABA5B96911DF071F /* Pods_SwiftTest1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 688E7B271B16BDC5E388C50F /* Pods_SwiftTest1.framework */; };
@@ -34,6 +35,7 @@
 		17155CFC2D170AF400BF1A81 /* SwiftTest1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTest1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		17155D0C2D170AF600BF1A81 /* SwiftTest1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTest1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		17155D162D170AF600BF1A81 /* SwiftTest1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftTest1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		17155D712D17183D00BF1A81 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		304FAD9FE00CF971753E24AA /* Pods-SwiftTest1Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTest1Tests.release.xcconfig"; path = "Target Support Files/Pods-SwiftTest1Tests/Pods-SwiftTest1Tests.release.xcconfig"; sourceTree = "<group>"; };
 		36AAD399CC3C869293943D83 /* Pods-SwiftTest1-SwiftTest1UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTest1-SwiftTest1UITests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftTest1-SwiftTest1UITests/Pods-SwiftTest1-SwiftTest1UITests.debug.xcconfig"; sourceTree = "<group>"; };
 		5776D6AA76B95B80FFBB4295 /* Pods-SwiftTest1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftTest1.release.xcconfig"; path = "Target Support Files/Pods-SwiftTest1/Pods-SwiftTest1.release.xcconfig"; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				17155CFD2D170AF400BF1A81 /* Products */,
 				B47FDE5F67C24906C17F2440 /* Pods */,
 				A893E650D69B32B5A849A508 /* Frameworks */,
+				17155D712D17183D00BF1A81 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -254,6 +257,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				17155D732D17184500BF1A81 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
